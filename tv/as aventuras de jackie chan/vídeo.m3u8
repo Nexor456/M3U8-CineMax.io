@@ -19,6 +19,10 @@ segment_5.ts
 segment_6.ts
 #EXTINF:10,
 segment_7.ts
-#EXTINF:5.0,
+#EXTINF:10,
 segment_8.ts
+#EXTINF:10,
+segment_9.ts
+#EXTINF:10,
+segment_10.ts
 #EXT-X-ENDLIST
