@@ -1,1 +1,0 @@
-Simulated TS segment file #1 for ASAVNTRSDJCKCHNEP01
